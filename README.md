@@ -1,8 +1,6 @@
 # GitHub Forking and Branching Test Repo
 
-
-
-haha we testing lezzgooo
+NEW CHANGES NAHHHHH, USING NEW BUGFIX BRANCH
 ---
 
 ## Workflow Overview
