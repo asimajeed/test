@@ -1,8 +1,6 @@
 # GitHub Forking and Branching Test Repo
 
-
-
-haha we testing lezzgooo
+directly pushing without forking cuz im a collaborator now
 ---
 
 ## Workflow Overview
