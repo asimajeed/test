@@ -1,13 +1,8 @@
 # GitHub Forking and Branching Test Repo
 
-This repository is created for testing and learning the concepts of **forking**, **branching**, and **pull requests** using GitHub, in collaboration with [DaaimAliSheikh](https://github.com/DaaimAliSheikh). The purpose of this repo is to get hands-on experience with collaborative workflows, especially on GitHub, to understand how to contribute to open source projects and work effectively in a team.
 
-## Purpose
-- Practice forking a repository.
-- Create and work on feature branches.
-- Learn to make pull requests for contributions.
-- Review and merge contributions from forks.
 
+haha we testing lezzgooo
 ---
 
 ## Workflow Overview
